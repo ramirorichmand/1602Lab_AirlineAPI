@@ -1,4 +1,4 @@
-# 1602Lab_AirlineAPI
+# 16/02/23 Lab AirlineAPI
 
 In this exercise I revisited the airline booking system. Last time I built a CLI and managed the details of passengers and flights from the terminal but in the real world an airline wouldn't manage things this way. Instead they would have an API with routes available to make bookings through.
 
