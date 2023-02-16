@@ -6,7 +6,7 @@ A real airline would have **much** more security in place around its API but for
 
 ## MVP
 
-Designed and built an API with the same CRUD functionality as the CLI project. There was a many-to-many relationship between a `passengers` table and a `flights` table. The `passengers` table has columns for:
+I designed and built an API with the same CRUD functionality as the CLI project. There was a many-to-many relationship between a `passengers` table and a `flights` table. The `passengers` table has columns for:
 
 - `id`
 - `name`
